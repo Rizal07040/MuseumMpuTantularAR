@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game Loading.unity
     guid: 2059c484f6459a34184af58a60c8830d
+  - enabled: 1
+    path: Assets/Scans.unity
+    guid: 8496d138e113ea64282f1988326ef639
   m_configObjects: {}
